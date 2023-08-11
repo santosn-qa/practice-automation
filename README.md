@@ -22,6 +22,7 @@ This project is your canvas to practice and innovate. Each test class represents
 
 The `src/test/java` directory houses various test classes, each focusing on a specific element handling approach. Use these classes as your reference points for experimenting with different methods and developing your own strategies.
 
-## Contributing
+## Disclaimer
 
-We welcome contributions from the community! If you discover new techniques, improve existing ones, or want to share your insights, please follow our [contribution guidelines](CONTRIBUTING.md).
+Please note that this project is purely for educational purposes and practice. There is no specific structure, design pattern, or working framework provided. It's a sandbox for you to explore and learn different approaches to web automation.
+
