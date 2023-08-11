@@ -1,4 +1,4 @@
-# selenium-java-cucumber
+# selenium-java-practice-automation
 This is a demonstration of automated testing using [this](https://practice-automation.com/) dedicated website for practicing automation by [automateNow](https://practice-automation.com/about/)
 
 Authored by: Nourilee Santos
