@@ -24,5 +24,5 @@ The `src/test/java` directory houses various test classes, each focusing on a sp
 
 ## Disclaimer
 
-Please note that this project is purely for educational purposes and practice. There is no specific structure, design pattern, or working framework provided. It's a sandbox for you to explore and learn different approaches to web automation.
+Please note that this project is purely for educational purposes and practice. There is no specific structure, design pattern, or working framework provided. It's a sandbox I used to practice and play around with different techniques for managing UI components in web automation. Please feel free to review the code and provide any feedback you may have.
 
